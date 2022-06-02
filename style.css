@@ -26,8 +26,7 @@ nav a {
 }
 
 nav a:hover {
-    color: gainsboro;
-    font-size: 18px;
+    color: rgb(45, 78, 246);
 }
 
 .left {
@@ -66,14 +65,13 @@ h2 {
 
 main {
     align-items: center;
-
     display: flex;
     justify-content: center;
     margin: 0 auto;
 }
 
 main img {
-    height: 45vh;
+    height: 35vh;
 }
 
 footer {
